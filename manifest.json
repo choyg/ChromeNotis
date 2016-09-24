@@ -1,0 +1,24 @@
+{
+	"manifest_version": 5,
+	
+	"name": "Notifications Toggle",
+	"description": "Easily toggle notification settings",
+	"version": "1.0",
+	
+	"browser_action": {
+		"default_icon": {
+            "19": "images/icon19.png",
+            "38": "images/icon38.png",
+            "128": "images/icon128.png"
+          },
+		"default_title": "Notifications Switch"
+	},
+	"background":{
+		"scripts":["eventPage.js"],
+		"persistent": false
+	},
+	"permissions": [
+     	"contentSettings",
+     	"storage"     	
+	]
+}
