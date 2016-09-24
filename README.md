@@ -10,10 +10,10 @@ Quickly block notifications to prevent inopportune Chrome desktop notifications 
 2. Open chrome://extensions/
 3. Make sure Developer mode is checked 
 
-![developer screenshot](/images/readmeDeveloperCheckbox.png)
+    ![developer screenshot](/images/readmeDeveloperCheckbox.png)
 
 4. Load unpacked extension and select the extracted folder
 
-![unpacked screenshot](/images/readmeLoadUnpacked.png)
+    ![unpacked screenshot](/images/readmeLoadUnpacked.png)
 
 
